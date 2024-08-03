@@ -1,4 +1,4 @@
-ame: GitHub actions demo
+name: GitHub actions demo
 run-name: Testing our Github actions
 
 on: [push]
